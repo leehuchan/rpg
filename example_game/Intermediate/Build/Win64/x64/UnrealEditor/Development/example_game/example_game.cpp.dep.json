@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\github\\rpg\\example_game\\source\\example_game\\example_game.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\github\\rpg\\example_game\\intermediate\\build\\win64\\x64\\example_gameeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\github\\rpg\\example_game\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\example_game\\definitions.example_game.h",
+            "c:\\github\\rpg\\example_game\\source\\example_game\\example_game.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

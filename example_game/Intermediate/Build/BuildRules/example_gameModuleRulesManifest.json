@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\github\\rpg\\example_game\\Source\\example_game\\example_game.Build.cs",
+		"C:\\github\\rpg\\example_game\\Source\\example_game.Target.cs",
+		"C:\\github\\rpg\\example_game\\Source\\example_gameEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}
